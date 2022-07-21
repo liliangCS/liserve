@@ -1,0 +1,23 @@
+{
+  "name": "iserve",
+  "version": "1.0.0",
+  "description": "a static resource deployment tool",
+  "main": "index.js",
+  "bin": {
+    "iserve": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iserve"
+  ],
+  "author": "liliang12138",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0",
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0"
+  }
+}
