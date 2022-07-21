@@ -1,6 +1,6 @@
 {
   "name": "liserve",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "a static resource deployment tool",
   "main": "index.js",
   "bin": {
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liliangCS/iserve"
+    "url": "https://github.com/liliangCS/liserve"
   },
   "keywords": [
     "liliangCS",
-    "leaf",
-    "leaf-lib",
+    "serve",
+    "liserve",
     "lilian",
     "liliang12138"
   ],
